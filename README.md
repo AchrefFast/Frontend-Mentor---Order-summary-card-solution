@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
--  [Solution URL](https://github.com/AchrefFast/Frontend-Mentor--NFT-preview-card-componen)
-- [Live Site URL](https://achreffast.github.io/Frontend-Mentor--NFT-preview-card-componen/)
+-  [Solution URL](https://github.com/AchrefFast/Frontend-Mentor---Order-summary-card-solution)
+- [Live Site URL](https://achreffast.github.io/Frontend-Mentor---Order-summary-card-solution/)
 
 ## My process
 
